@@ -1,0 +1,79 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+
+.twocolordiv  {
+    position: relative;
+    z-index: 9;
+    background: #fff;
+    width:50px;
+    height:25px;
+    border: 1px solid #000;
+    display:inline-block;
+    
+    }
+
+
+    
+.twocolordiv:before {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    right: 50%;
+    bottom: 0;
+    left: 0;
+    background: red;
+    }
+
+
+.twocolordiv2 {
+
+        position: relative;
+        z-index: 9;
+        background: #000;
+        width:50px;
+        height:25px;
+        border: 1px solid #000;
+        display:inline-block;
+        margin-left: 50px;
+       
+}
+        
+.twocolordiv2:before {
+        content: "";
+        position: absolute;
+        z-index: -1;
+        top: 0;
+        right: 50%;
+        bottom: 0;
+        left: 0;
+        background: red;
+}
+
+
+#divenv{
+    border: none !important;
+}
+
+#iddescuento{
+    border: none !important;
+}
+
+
+#precio{
+
+   color: #805ad5 !important;
+   font-size: 28px;
+
+}
+
+.container svg{
+
+    display: inline !important;
+   
+   
+}
+
+

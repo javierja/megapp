@@ -1,0 +1,55 @@
+[
+    {
+        "id":"1",
+        "nombre": "Camiseta River Plate Tit/2021",
+        "precio": 9000,
+        "imagen":"./img/river01.png",
+        "id_compra":"001"
+ 
+    
+    },
+    {
+        "id":"2",
+        "nombre": "Camiseta Independiente Tit/2021",
+        "precio": 8000,
+        "imagen":"./img/rojo.jpg",
+        "id_compra":"002"
+
+    },
+    {
+        "id":"3",
+        "nombre": "Camiseta Racing Tit/2021",
+        "precio": 6700,
+        "imagen":"./img/racing.jpg" ,
+        "id_compra":"003"
+
+    },
+    {
+        "id":"4",
+        "nombre": "Camiseta San Lorenzo Tit/2020",
+        "precio": 9000,
+        "imagen":"./img/casla.jpg",
+        "id_compra":"004"
+ 
+    
+    },
+    {
+        "id":"5",
+        "nombre": "Camiseta Argentina Suplente",
+        "precio": 5000,
+        "imagen":"./img/argentina.jpg",
+        "id_compra":"005"
+ 
+    
+    },
+    {
+        "id":"6",
+        "nombre": "Camiseta Pumas Suplente 2020",
+        "precio": 6500,
+        "imagen":"./img/pumas.jpg",
+        "id_compra":"006"
+ 
+    
+    }
+
+]
